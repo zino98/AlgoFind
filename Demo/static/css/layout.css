@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.header {
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+}
+
+#main-menu{		
+	display:inline-block;
+}
+
+#search-form {
+	position:fixed; top: 250px; left: 530px;
+	display: block;
+}
+
+.logo {
+	display:inline-block;
+}
+
+.result-form{
+	display: block;
+}
